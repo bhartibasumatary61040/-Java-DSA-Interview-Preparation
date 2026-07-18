@@ -148,6 +148,20 @@ Java-DSA-Interview-Preparation
 
 ---
 
+## ✅ Design Patterns
+- Singleton Pattern
+- Factory Pattern
+- Builder Pattern
+- Prototype Pattern
+- Adapter Pattern
+- Decorator Pattern
+- Strategy Pattern
+- Observer Pattern
+- Command Pattern
+- Facade Pattern
+
+---
+
 # 🛠 Technologies Used
 
 - Java
